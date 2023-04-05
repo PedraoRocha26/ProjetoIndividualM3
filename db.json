@@ -1,0 +1,135 @@
+
+{
+    "carros": [
+        {
+            "id":1,
+            "nome": "Uno",
+            "marca": "Fiat",
+            "preco": 23200.00,
+            "ano de fabricação": "2012",
+            "imagem":"https://img1.icarros.com/dbimg/galeriaimgmodelo/2/8743_1",
+            "categoria_id": 1
+        },
+        {
+            "id":2,
+            "nome": "Ranger",
+            "marca": "Ford",
+            "preco": 57900.00,
+            "ano de fabricação": "2015",
+            "imagem":"https://quatrorodas.abril.com.br/wp-content/upload…501a0659618712910400121.jpeg?quality=70&strip=all",
+            "categoria_id": 2
+        },
+        {
+            "id":3,
+            "nome": "Corolla",
+            "marca": "Toyota",
+            "preco": 132800.00,
+            "ano de fabricação": "2022",
+            "imagem":"https://blogger.googleusercontent.com/img/a/AVvXsE…s-y2Kzmc5C89ER7qddY-KjBRS4JUn-iqd90NAyF6_n3g=s600",
+            "categoria_id": 3
+        },
+           {
+            "id":4,
+            "nome": "Fusca",
+            "marca": "Volkswagen",
+            "preco": 12300.00,
+            "ano de fabricação": "1960",
+            "imagem":"https://i0.statig.com.br/bancodeimagens/7q/3z/mi/7q3zmifgy7zuknlwyldbuawbu.jpg",
+            "categoria_id": 4
+        },
+   {
+            "id":5,
+            "nome": "328i GP",
+            "marca": "BMW",
+            "preco": 109499.00,
+            "ano de fabricação": "2014",
+            "imagem":"https://www.webmotors.com.br/imagens/prod/347304/B…73041126504903.png?s=fill&w=275&h=183&q=70&t=true",
+            "categoria_id": 5
+        },
+   {
+            "id":6,
+            "nome": "GLA 200",
+            "marca": "Mercedes-Benz",
+            "preco": 144990.00,
+            "ano de fabricação": "2018",
+            "imagem":"https://dgq0rlkor3ukz.cloudfront.net/wp-content/uploads/2019/07/gla.jpg",
+            "categoria_id": 6
+        }
+   
+      
+    ],
+        "donos": [
+            {
+                "id":1,
+                "nome": "André",
+                "idade": "23",
+                "emprego": "Auxiliar técnico",
+                
+                "categoria_id": 1
+            },
+            {
+                "id":2,
+                "nome": "Carlos",
+                "idade": "36",
+                "emprego": "Jornalista",
+                
+                "categoria_id": 2
+            },
+            {
+                "id":3,
+                "nome": "Amanda",
+                "idade": "29",
+                "emprego": "Enfermeira",
+                
+                "categoria_id": 3
+            },
+            {
+                "id":4,
+                "nome": "Rafael",
+                "idade": "19",
+                "emprego": "Motorista de aplicativo",
+                
+                "categoria_id": 4
+            },
+            {
+                "id":5,
+                "nome": "Osvaldo",
+                "idade": "58",
+                "emprego": "CEO",
+                
+                "categoria_id": 5
+            },
+            {
+                "id":6,
+                "nome": "Gabriel",
+                "idade": "41",
+                "emprego": "Advogado",
+                
+                "categoria_id": 6
+            }
+        ],
+        "garagem": [
+            {
+                "id":1,
+                "nome": "Garagem 1",
+                "local": "Rua Central",
+
+                "categoria_id": 1
+            },
+            {
+                "id":2,
+                "nome": "Garagem 2",
+                "local": "Rua Porto Seguro",
+
+                "categoria_id": 2
+            },
+            {
+                "id":3,
+                "nome": "Garagem 3",
+                "local": "Rua Ituá",
+
+                "categoria_id": 3
+            }
+        ]
+        
+    }    
